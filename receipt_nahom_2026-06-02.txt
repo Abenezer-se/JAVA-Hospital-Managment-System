@@ -1,0 +1,17 @@
+============================================
+        HOSPITAL MANAGEMENT SYSTEM         
+              PAYMENT RECEIPT              
+============================================
+Date              : 2026-06-02
+Patient           : nahom
+Doctor            : abel
+--------------------------------------------
+Consultation Fee  : ETB 200.0
+Laboratory Fee    : ETB 299.0
+Medicine Fee      : ETB 299.0
+--------------------------------------------
+TOTAL AMOUNT      : ETB 798.0
+Payment Status    : UNPAID
+============================================
+      Thank you for choosing our hospital!  
+============================================

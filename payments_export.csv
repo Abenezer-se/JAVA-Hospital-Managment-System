@@ -1,0 +1,4 @@
+ID,Patient,Doctor,Consult,Lab,Medicine,Total,Status,Date
+5,eyerus,tsion,2000.0,1000.0,4500.0,7500.0,PAID,2026-09-06
+4,eliyas,kibrom,200.0,700.0,1050.0,1950.0,PAID,2026-09-06
+3,eliyas,kibrom,200.0,299.0,299.0,798.0,PAID,2026-06-02

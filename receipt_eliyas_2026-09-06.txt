@@ -1,0 +1,17 @@
+============================================
+        HOSPITAL MANAGEMENT SYSTEM         
+              PAYMENT RECEIPT              
+============================================
+Date              : 2026-09-06
+Patient           : eliyas
+Doctor            : kibrom
+--------------------------------------------
+Consultation Fee  : ETB 200.0
+Laboratory Fee    : ETB 700.0
+Medicine Fee      : ETB 1050.0
+--------------------------------------------
+TOTAL AMOUNT      : ETB 1950.0
+Payment Status    : PAID
+============================================
+      Thank you for choosing our hospital!  
+============================================

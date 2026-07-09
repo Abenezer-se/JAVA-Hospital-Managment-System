@@ -1,0 +1,17 @@
+============================================
+        HOSPITAL MANAGEMENT SYSTEM         
+              PAYMENT RECEIPT              
+============================================
+Date              : 2026-09-06
+Patient           : eyerus
+Doctor            : tsion
+--------------------------------------------
+Consultation Fee  : ETB 2000.0
+Laboratory Fee    : ETB 1000.0
+Medicine Fee      : ETB 4500.0
+--------------------------------------------
+TOTAL AMOUNT      : ETB 7500.0
+Payment Status    : PAID
+============================================
+      Thank you for choosing our hospital!  
+============================================
